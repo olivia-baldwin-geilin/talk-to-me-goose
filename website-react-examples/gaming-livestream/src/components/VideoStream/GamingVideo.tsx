@@ -14,7 +14,7 @@ export const GamingVideo = ({ chatVisible }: GamingVideoProps) => {
       controls
       className={`video-container ${chatVisible}`}
     >
-      <source src='https://getstream.io/downloads/react_example-gaming_livestream.mp4' />
+      <source src='https://storage.googleapis.com/videosbucket46548765/Star%20Trek_%20Picard%20_%20Season%203%20Official%20Trailer%20_%20Paramount%2B.mp4' />
     </video>
   );
 };
