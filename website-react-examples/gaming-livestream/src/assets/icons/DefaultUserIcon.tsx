@@ -14,7 +14,7 @@ import React from 'react';
 ); */
 
 const DefaultUserIcon = () => (
-  <img className='user-icon' width='16' height='16' src={window.location.origin + '/images/avatar_sbsp_01_spongebob.png'}
+  <img className='user-icon' width='16' height='16' src={window.location.origin + '/images/avatar_picard_1_picard.png'}
   />
 );
 
