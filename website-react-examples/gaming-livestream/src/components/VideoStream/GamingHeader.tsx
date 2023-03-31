@@ -13,7 +13,7 @@ import {ChatIcon} from '../../assets/icons/ChatIcon';
 export const GamingHeader = () => {
 	const {chatVisible, toggleFullScreen} = useLayoutController();
 
-	const title = '2200+ Wins, #1 Warzone Battle Royale All Platforms Wins';
+	const title = 'Star Trek: Picard';
 
 	return (
 			<header>
@@ -23,12 +23,7 @@ export const GamingHeader = () => {
 						<h2 title={title}>{title}</h2>
 						<div className='game-details'>
 							<div>
-								<ControllerIcon/>
-								<p>Overwatch</p>
-							</div>
-							<div>
-								<PeopleIcon/>
-								<p>Corsairs</p>
+								<p>S1 E1 Remembrance</p>
 							</div>
 						</div>
 					</div>

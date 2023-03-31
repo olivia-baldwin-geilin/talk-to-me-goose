@@ -42,10 +42,6 @@ export const GamingMessageInput = React.memo(() => {
         {!thread && <button className='emoji-button' onClick={messageInput.openEmojiPicker}><EmojiIcon /></button>}
       </div>
       <div className='channel-footer__bottom'>
-        <button onClick={showUpgradePanel} className='watcher-count-button'>
-          <StarIcon />
-          <p>68</p>
-        </button>
         {typing && !!Object.keys(typing).length && (
           <TypingIndicator/>
         )}
