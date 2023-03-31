@@ -14,7 +14,7 @@ const FollowerButtons = () => {
 				onClick={() => setFollowed(!followed)}
 			>
 				{followed ? <HeartFullIcon/> : <HeartHollowIcon/>}
-				<p>Follow</p>
+				<p>Like</p>
 			</button>
 			<button
 				className='follower-button'
