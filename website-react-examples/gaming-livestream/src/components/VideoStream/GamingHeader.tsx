@@ -1,9 +1,7 @@
 import React from 'react';
 
-import ControllerIcon from '../../assets/icons/ControllerIcon';
 import HeartFullIcon from '../../assets/icons/HeartFullIcon';
 import LiveIcon from '../../assets/icons/LiveIcon';
-import PeopleIcon from '../../assets/icons/PeopleIcon';
 import SubscribeFullIcon from '../../assets/icons/SubscribeFullIcon';
 import WatcherIcon from '../../assets/icons/WatcherIcon';
 
@@ -35,7 +33,7 @@ export const GamingHeader = () => {
 					</div>
 					<div className='stream-involvement__stat'>
 						<HeartFullIcon/>
-						<p>1.2K</p>
+						<p>1.4K</p>
 					</div>
 					<div className='stream-involvement__stat'>
 						<SubscribeFullIcon/>
