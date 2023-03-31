@@ -1,1 +1,27 @@
 Code adapted from an open source project: https://github.com/GetStream/website-react-examples/tree/master/gaming-livestream
+
+To load a particular account, you'll need to stop the server and edit the `.env.development` file. Change the `REACT_APP_USER_ID` and `REACT_APP_USER_TOKEN` to the account you want to use. Then start the server. 
+
+Some credentials:
+```
+StarshipCaptain
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiU3RhcnNoaXBDYXB0YWluIn0.JuA702m8ak0ezv0G7MxUvRKmlNz-EJRF8sSSfwxgsBw
+
+WarpDriveEngage
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiV2FycERyaXZlRW5nYWdlIn0.oJu_8hITuqOHA6MWIhCSNMFrDEZ8uk_SGYx2NE83j5o
+
+RedShirtRevenge
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiUmVkU2hpcnRSZXZlbmdlIn0.YxUHFZIq2t3wYyfte4yCl-WjviHcHpZtJrtZDwfO-Hg
+
+TrekkieForever
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiVHJla2tpZUZvcmV2ZXIifQ.UzoD9AO-mrGpTr96vSKeWwi7fvzveynssPGIAZ8vd9k
+
+PhaserFanatic
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiUGhhc2VyRmFuYXRpYyJ9.U3ysErpIoxEUC30o-wUD9e6sBxcVbzPqnJ9pFEYxDGI
+
+VulcanVixen
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiVnVsY2FuVml4ZW4ifQ.M6EUHwRtWwgq3Bypd9ZnXLlOa_BMyCD0f8pqUFWwjOw
+
+KlingonConqueror
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiS2xpbmdvbkNvbnF1ZXJvciJ9.iJ4YQj5ADf2c9KCCFMsXZE-BL38YQFLodeGM5KiNuaY
+```
